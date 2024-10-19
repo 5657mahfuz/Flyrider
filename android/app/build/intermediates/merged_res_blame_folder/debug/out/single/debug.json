@@ -1,0 +1,462 @@
+[
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_filter.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_filter.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_images_logo.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_images_logo.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_lovecolor.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_lovecolor.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_node_modules_reactnativecalendarstrip_src_img_rightarrowblack.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/node_modules_reactnativecalendarstrip_src_img_rightarrowblack.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_orders.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_orders.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_icon_bicycle.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_icon_bicycle.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_images_quisine2.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_images_quisine2.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-xhdpi_node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-xhdpi/node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.fly.riderapp-main-43:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.fly.riderapp-main-43:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.fly.riderapp-main-43:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_logout.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_logout.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_node_modules_reactnativeratings_dist_images_heart.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/node_modules_reactnativeratings_dist_images_heart.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_love.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_love.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_arrowdown.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_arrowdown.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.fly.riderapp-main-43:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_node_modules_reactnativeelementdropdown_src_assets_down.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/node_modules_reactnativeelementdropdown_src_assets_down.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_images_logo.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_images_logo.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_images_quisine3.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_images_quisine3.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-xhdpi_node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-xhdpi/node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_notification.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_notification.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.fly.riderapp-main-43:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-xxxhdpi_node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-xxxhdpi/node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.fly.riderapp-main-43:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_navigation_img_firstpagerider.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_navigation_img_firstpagerider.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.fly.riderapp-main-43:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_percent.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_percent.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-xxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-xxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_node_modules_reactnativeratings_dist_images_rocket.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/node_modules_reactnativeratings_dist_images_rocket.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_vouchericon.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_vouchericon.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_images_placeholderimage.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_images_placeholderimage.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_location.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_location.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_navigation_img_refer.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_navigation_img_refer.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_carbon_deliveryparcel.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_carbon_deliveryparcel.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_node_modules_reactnativepaper_src_assets_backchevron.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/node_modules_reactnativepaper_src_assets_backchevron.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_node_modules_reactnativecalendarstrip_src_img_leftarrowblack.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/node_modules_reactnativecalendarstrip_src_img_leftarrowblack.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_payment.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_payment.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-xhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-xhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_menu.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_menu.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.fly.riderapp-main-43:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_shape_vouchercard.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_shape_vouchercard.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_voucher.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_voucher.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_node_modules_reactnativeelementdropdown_src_assets_close.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/node_modules_reactnativeelementdropdown_src_assets_close.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_delete.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_delete.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_shape_herobg.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_shape_herobg.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_arrowright.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_arrowright.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/mipmap-ldpi_ic_launcher.png.flat",
+        "source": "com.fly.riderapp-main-43:/mipmap-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_pajamas_food.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_pajamas_food.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.fly.riderapp-main-43:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_tick.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_tick.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.fly.riderapp-main-43:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_searchnormal.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_searchnormal.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_node_modules_reactnativeratings_dist_images_bell.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/node_modules_reactnativeratings_dist_images_bell.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.fly.riderapp-main-43:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-xxxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-xxxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.fly.riderapp-main-43:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_user.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_user.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstarselected.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/node_modules_reactnativeratings_dist_images_airbnbstarselected.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_navigation_img_bkashcustomercare1.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_navigation_img_bkashcustomercare1.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.fly.riderapp-main-43:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-xxhdpi_node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-xxhdpi/node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.fly.riderapp-main-43:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_cart.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_cart.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-hdpi_node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-hdpi/node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_share.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_share.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.fly.riderapp-main-43:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-xxhdpi_node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-xxhdpi/node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_parcel.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_parcel.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_sort.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_sort.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_shape_flypaper.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_shape_flypaper.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_back_arrow.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_back_arrow.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_editicon.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_editicon.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_setting.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_setting.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_supportcall.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_supportcall.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_navigation_img_img.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_navigation_img_img.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_whitestar.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_whitestar.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_shape_curvecard1.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_shape_curvecard1.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_plus.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_plus.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_stroke.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_stroke.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_images_foods.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_images_foods.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_navigation_img_ss.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_navigation_img_ss.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_emptycart.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_emptycart.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstar.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/node_modules_reactnativeratings_dist_images_airbnbstar.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_images_discount_img1.jpg.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_images_discount_img1.jpg"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_images_quisin1.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_images_quisin1.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_images_splashbg.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_images_splashbg.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.fly.riderapp-main-43:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_images_herofood.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_images_herofood.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_images_splashlogo.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_images_splashlogo.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_navigation_img_image425251643965434.jpg.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_navigation_img_image425251643965434.jpg"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_images_discount_img2.jpg.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_images_discount_img2.jpg"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_star.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_star.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.fly.riderapp-main-43:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_images_roundshape.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_images_roundshape.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_deleteicon.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_deleteicon.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.fly.riderapp-main-43:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_images_roundshape.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_images_roundshape.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-hdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-hdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_shape_lineargradient.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_shape_lineargradient.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_images_testimage.jpeg.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_images_testimage.jpeg"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_images_quisine4.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_images_quisine4.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_clock.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_clock.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_navigation_img_user.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_navigation_img_user.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_node_modules_reactnativeratings_dist_images_star.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/node_modules_reactnativeratings_dist_images_star.png"
+    },
+    {
+        "merged": "com.fly.riderapp-merged_res-41:/drawable-mdpi_src_assets_icons_locationicon.png.flat",
+        "source": "com.fly.riderapp-main-43:/drawable-mdpi/src_assets_icons_locationicon.png"
+    }
+]

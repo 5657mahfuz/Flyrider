@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bottom_nav_icon_color">#FFFFFF</color>
+    <color name="bottom_nav_text_color">#FFFFFF</color>
+    <color name="ic_launcher_background">#fefffe</color>
+    <color name="transparent">#00ffffff</color>
+    <integer name="react_native_dev_server_port">8081</integer>
+    <integer name="react_native_inspector_proxy_port">8081</integer>
+    <string name="app_name">FlyRider</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">(AIzaSyBiSPcYsaDdWIh6k8amWyKm8Yfl64I2PJ0)</string>
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        
+        <item name="android:editTextBackground">@drawable/rn_edit_text_material</item>
+         <item name="android:navigationBarColor">#FFFFFF</item>
+        <item name="android:enforceNavigationBarContrast">false</item>
+      
+    </style>
+</resources>
